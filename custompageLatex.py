@@ -2542,7 +2542,7 @@ with st.sidebar:
         "gemini-2.0-flash-lite",
         "gemini-2.0-pro-exp",
         "gemini-1.5-pro",
-        "gemini-1.5-flash",
+        "gemini-3.5-flash",
     ])
     is_hindi = st.toggle(
         "\U0001f1ee\U0001f1f3 Hindi Medium",
